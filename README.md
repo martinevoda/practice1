@@ -1,2 +1,2 @@
 # practice1
-Practice Git
+Practice Git to succed 
